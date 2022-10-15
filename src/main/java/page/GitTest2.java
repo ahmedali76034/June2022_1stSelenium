@@ -19,5 +19,6 @@ public class GitTest2 {
 	
 	public static void printMe3() {
 		System.out.println("PrintMe3");
+		System.out.println("PrintMe1");
 	}
 }
